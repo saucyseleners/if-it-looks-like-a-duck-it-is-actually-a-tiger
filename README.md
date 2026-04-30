@@ -3,7 +3,7 @@ read me.md
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
-![Orange and Date Cake](/images/orange_date_cake%20(1).png)
+![Orange and Date Cake](/images/orange_date_cake.png)
 
 ### Ingredients
 
