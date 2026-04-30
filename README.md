@@ -41,7 +41,7 @@ entire juice may not be needed. On the other hand, if orange is small a little w
 To one-half of this mixture add dates, cut into small pieces, and use as filling for cake; frosting with the
 remaining mixture and decorating with sections of orange and perfect dates. 
 
-Recipe from [Women's World calendar cookbook] (https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3805nx1f&seq=25)
+Recipe from [Women's World calendar cookbook](https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3805nx1f&seq=25)
 
 ![Cookbook cover](/images/calendar_cookbook_cover.jpg)
 
