@@ -3,7 +3,9 @@ read me.md
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
+![Orange and Date Cake](/images/orange_date_cake%20(1).png)
 ### Ingredients
+
 - 1/2 cup butter
 - 1 cup sugar
 - 2 eggs
